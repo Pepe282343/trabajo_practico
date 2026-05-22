@@ -1,0 +1,46 @@
+/* selector de tipo */
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+}
+
+/* selector de id */
+#arriba {
+    background-color: darkblue;
+}
+
+/* selector de tipo */
+header {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* selector descendente */
+nav a {
+    color: yellow;
+    margin: 10px;
+    text-decoration: none;
+}
+
+/* selector de clase */
+.tarjeta {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+img {
+    width: 250px;
+}
+
+/* footer */
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
